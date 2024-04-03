@@ -1,14 +1,95 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "id": "36",
+      "cap_id": "6",
+      "nombre": "Resucitaci\u00f3n cardio pulmonar",
+      "fecha": "2024-01-29 16:05:54",
+      "actualizado_por": "Administrador",
+      "recursoId": "57",
+      "moderador": "Tomaz Arauz",
+      "moderador_id": "1"
+    },
+    {
+      "id": "44",
+      "cap_id": "11",
+      "nombre": "asdf3",
+      "fecha": "2024-03-07 15:29:43",
+      "actualizado_por": "Alicia Chan",
+      "recursoId": "57",
+      "moderador": "Tomaz Arauz",
+      "moderador_id": "1"
+    },
+    {
+      "id": "45",
+      "cap_id": "7",
+      "nombre": "Uso de herramientas digitales",
+      "fecha": "2024-03-07 14:27:51",
+      "actualizado_por": "Alicia Chan",
+      "recursoId": "57",
+      "moderador": "Eddy Coronel",
+      "moderador_id": "2"
+    },
+    {
+      "id": "50",
+      "cap_id": "12",
+      "nombre": "Probando",
+      "fecha": "2024-03-07 17:53:31",
+      "actualizado_por": "Administrador",
+      "recursoId": "57",
+      "moderador": "Eddy Coronel",
+      "moderador_id": "2"
+    },
+    {
+      "id": "53",
+      "cap_id": "9",
+      "nombre": "Movimiento de heridos",
+      "fecha": "2024-03-08 09:52:48",
+      "actualizado_por": "Administrador",
+      "recursoId": "57",
+      "moderador": "Eddy Coronel",
+      "moderador_id": "2"
+    },
+    {
+      "id": "58",
+      "cap_id": "8",
+      "nombre": "Primeros Auxilios",
+      "fecha": "2024-03-08 16:00:00",
+      "actualizado_por": "Alicia Chan",
+      "recursoId": "57",
+      "moderador": "Maritza Jimenez",
+      "moderador_id": "3"
+    },
+    {
+      "id": "59",
+      "cap_id": "10",
+      "nombre": "adsf",
+      "fecha": "2024-03-12 11:18:33",
+      "actualizado_por": "Administrador",
+      "recursoId": "57",
+      "moderador": "Maritza Jimenez",
+      "moderador_id": "3"
+    },
+    {
+      "id": "61",
+      "cap_id": "12",
+      "nombre": "Probando",
+      "fecha": "2024-03-12 11:18:33",
+      "actualizado_por": "Administrador",
+      "recursoId": "57",
+      "moderador": "Juan Melendez",
+      "moderador_id": "4"
+    },
+    {
+      "id": "68",
+      "cap_id": "13",
+      "nombre": "Manejo de pacientes pedi\u00e1tricos",
+      "fecha": "2024-03-14 10:51:44",
+      "actualizado_por": "Alicia Chan",
+      "recursoId": "57",
+      "moderador": "Beatriz",
+      "moderador_id": "5"
+    }
+  ]
 }
+
